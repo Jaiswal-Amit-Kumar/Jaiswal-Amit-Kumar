@@ -66,12 +66,12 @@ I'm a passionate data scientist with a background in statistics, computer scienc
 
 Here are some of the projects I've worked on.  Click on the project name to view the repository.
 
-### [Project Title 1]
+### Deep Comparison Analysis : Statistical Methods and Deep Learning for Network Anomaly Detection
 
 *   **Description:** [A brief description of the project, its goals, and the problem it solves.]
-*   **Tech Stack:** [List the technologies used, e.g., Python, Scikit-learn, Pandas, Matplotlib]
-*   **Key Achievements:** [Highlight key accomplishments or insights gained from the project.  Quantify them if possible (e.g., "Improved model accuracy by 15%").]
-*   **[Link to Project Repository](https://github.com/[your-username]/[project-repo-name])**
+*   **Tech Stack:** [Python, Google Colab, Overleaf, Latex, Python 3.8+, TensorFlow 2.5+, Scikit-learn 0.24+, Pandas 1.2+, NumPy 1.20+, Matplotlib 3.4+, Seaborn 0.11+]
+*   **Key Achievements:** Improved model accuracy by 25% from 94 to 99%).]
+*   **[Link to Project Repository](https://github.com/Jaiswal-Amit-Kumar/Anomaly-Detection-research-projectProject)**
 *   **[Link to Live Demo/Deployment (if applicable)]**
 
 ### [Project Title 2]
