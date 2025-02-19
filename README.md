@@ -1,4 +1,4 @@
-# Hi, I'm [Amit Kumar Jaiswal]! 👋
+# Hi, I'm Amit Kumar Jaiswal! 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-username]/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameejais0999@gmail.com)
@@ -8,24 +8,37 @@
 
 ## About Me
 
-I'm a passionate data scientist with a background in [mention your background, e.g., statistics, computer science, physics, etc.] I enjoy leveraging data to solve complex problems and extract meaningful insights. My goal is to contribute to data-driven decision-making and build innovative solutions using machine learning, statistical analysis, and data visualization techniques.
+I'm a passionate data scientist with a background in statistics, computer science, Data Anlaysis, Data Science, Cyber Security, Machine Learning. I enjoy leveraging data to solve complex problems and extract meaningful insights. My goal is to contribute to data-driven decision-making and build innovative solutions using machine learning, statistical analysis, and data visualization techniques.
 
-*   Currently, I'm working on [mention your current projects or learning goals].
+*   Currently, I'm working on Rust Programming.
 *   I'm always eager to learn new technologies and collaborate on interesting projects.
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameejais0999@gmail.com) 
+
+# 💻 Tech Stack:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jaiswal-Amit-Kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jaiswal-Amit-Kumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiswal-Amit-Kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Skills
 
 ### Programming Languages
 
 *   Python
-*   R
+*   Rust
 *   SQL
-*   [Add other languages]
+
+### Data Science Libraries
+* Pandas
+* Numpy
 
 ### Machine Learning
 
 *   **Algorithms:** Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines, K-Means Clustering,  [List others]
-*   **Frameworks:** Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, [List others]
+*   **Frameworks:** Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, Scapy.
 
 ### Data Visualization
 
@@ -33,7 +46,8 @@ I'm a passionate data scientist with a background in [mention your background, e
 *   Seaborn
 *   Plotly
 *   Tableau
-*   [List others]
+*   Power BI
+*   Grafana
 
 ### Data Analysis & Statistics
 
@@ -41,27 +55,12 @@ I'm a passionate data scientist with a background in [mention your background, e
 *   Statistical Modeling
 *   Data Cleaning & Preprocessing
 *   Exploratory Data Analysis (EDA)
-*   [List others]
-
-### Big Data Technologies
-
-*   Spark
-*   Hadoop
-*   [List others - only if applicable]
 
 ### Databases
 
 *   PostgreSQL
 *   MySQL
 *   MongoDB
-*   [List others]
-
-### Cloud Platforms
-
-*   AWS (Amazon Web Services)
-*   Azure
-*   Google Cloud Platform (GCP)
-*   [List others - only if applicable]
 
 ## Portfolio Projects
 
