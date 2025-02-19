@@ -69,18 +69,18 @@ Here are some of the projects I've worked on.  Click on the project name to view
 ### Deep Comparison Analysis : Statistical Methods and Deep Learning for Network Anomaly Detection
 
 *   **Description:** [A brief description of the project, its goals, and the problem it solves.]
-*   **Tech Stack:** [Python, Google Colab, Overleaf, Latex, Python 3.8+, TensorFlow 2.5+, Scikit-learn 0.24+, Pandas 1.2+, NumPy 1.20+, Matplotlib 3.4+, Seaborn 0.11+]
-*   **Key Achievements:** Improved model accuracy by 25% from 94 to 99%).]
+*   **Tech Stack:** Python, Google Colab, Overleaf, Latex, Python 3.8+, TensorFlow 2.5+, Scikit-learn 0.24+, Pandas 1.2+, NumPy 1.20+, Matplotlib 3.4+, Seaborn 0.11+
+*   **Key Achievements:** Improved model accuracy by 25% from 94 to 99%).
 *   **[Link to Project Repository](https://github.com/Jaiswal-Amit-Kumar/Anomaly-Detection-research-projectProject)**
-*   **[Link to Live Demo/Deployment (if applicable)]**
+*   **Link to Published Paper(https://doi.org/10.5281/zenodo.14051106))**
 
 ### [Project Title 2]
 
 *   **Description:** [A brief description of the project, its goals, and the problem it solves.]
 *   **Tech Stack:** [List the technologies used]
-*   **Key Achievements:** [Highlight key accomplishments]
-*   **[Link to Project Repository](https://github.com/[your-username]/[project-repo-name])**
-*   **[Link to Live Demo/Deployment (if applicable)]**
+*   **Key Achievements:** [Highlight key accomplishments
+*   **Link to Project Repository(https://github.com/[your-username]/[project-repo-name])**
+*   **Link to Published Paper(https://doi.org/10.5281/zenodo.14051106))**
 
 ### [Project Title 3]
 
