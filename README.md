@@ -1,9 +1,9 @@
 # Hi, I'm Amit Kumar Jaiswal! 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-username]/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amit-kumar-jaiswal-5bbb59156/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameejais0999@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/ameejais)
-[![Medium Badge](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-username)
+[![Medium Badge](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ameejais0999/about)
 [![Website Badge](https://img.shields.io/badge/Website-43853D?style=for-the-badge&logo=wordpress&logoColor=white)](https://your-website.com/)
 
 ## About Me
